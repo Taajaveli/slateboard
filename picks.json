@@ -1,0 +1,37 @@
+{
+  "title": "TAAJAVEILI",
+  "date": "Sun Oct 18",
+  "updated": "11:40 AM",
+  "boards": [
+    {
+      "league": "nfl",
+      "title": "Player Props",
+      "picks": [
+        { "player": "Patrick Mahomes", "team": "KC", "opp": "BUF", "market": "Pass Yds", "line": "o262.5",
+          "odds": "-115", "tier": "S", "score": 91.2,
+          "why": "Replace with your WHY line.",
+          "stats": { "Season hit rate": "5/6", "PF Rating": "8.4" } }
+      ]
+    },
+    {
+      "league": "mlb",
+      "title": "HR Board",
+      "picks": [
+        { "player": "Shohei Ohtani", "team": "LAD", "opp": "NYM", "market": "HR", "line": "1+",
+          "odds": "+240", "tier": "S", "score": 88.9, "why": "Replace with your WHY line." }
+      ]
+    }
+  ],
+  "parlays": [
+    {
+      "league": "nfl",
+      "title": "Sunday Yardage Ladder",
+      "odds": "+412",
+      "note": "Optional note shown in the parlay detail.",
+      "legs": [
+        { "player": "Patrick Mahomes", "team": "KC", "market": "Pass Yds", "line": "o262.5", "odds": "-115" },
+        { "player": "Saquon Barkley", "team": "PHI", "market": "Rush+Rec Yds", "line": "o109.5", "odds": "-110" }
+      ]
+    }
+  ]
+}
